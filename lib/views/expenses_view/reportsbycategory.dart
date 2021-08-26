@@ -951,7 +951,7 @@ class ReportsByCategoryState extends State<ReportsByCategory> with TickerProvide
                 generateCsv();
               },
               color: Colors.cyanAccent,
-              child: Text("Load Created CSV"),
+              child: Text("Export data to CSV"),
             ),
             Container(
               padding: EdgeInsets.all(10.0),

@@ -1,6 +1,15 @@
 # expense_tracker
 
-A new Flutter application.
+Expense tracker is a finance manager which can be used to track the income and expense of the users by daily and monthly.
+The users can keep track of their expenses monthly and export their data to CSV file.
+
+Features in this project:
+
+  * Daily and monthly expenses screen listing done according to the expense category with date and month.
+  * Users can navigate to daily and monthly data in the pie chart for easy analysis of their expenses.
+  * Export all data to CSV and make the data available for share to the external users.
+  * Use of material support library which makes the app more attractive and easy to use.
+
 
 ## Getting Started
 
